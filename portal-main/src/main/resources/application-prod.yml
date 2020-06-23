@@ -1,0 +1,9 @@
+server:
+  port: 8085
+
+  data:
+    mongodb:
+      host: mongo
+      port: 27017
+      database: mall-port
+
